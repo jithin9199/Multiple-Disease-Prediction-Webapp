@@ -3,10 +3,10 @@
 > **Abstract** : The designed web app employs the Streamlit Python library for frontend design and communicates with backend ML models to predict the probability of diseases. Multiple Disease Prediction has many machine learning models used in prediction. We will be able to choose the diseases from the navigation bar or a sidebar for which we want to make a prediction using various input values. These input values will be the symptoms, physical health data, or blood test results. We will first trained our model from historic data, so it can make accurate predictions. It's capable of predicting whether someone has Diabetes, Heart issues, Parkinson's, Liver conditions, Hepatitis, Jaundice, and more based on the provided symptoms, medical history, and results.
 
 ### Project Members
-1. KHAN MOHAMMED DANISH NISAR AHMED  [ Team Leader ] 
-2. MANJREKAR SOHAM SHRIKANT 
-3. KHAN MUZAFFAR MOHAMMAD SOAIB 
-4. JAMADAR DANISH RASHID 
+1. M D [ Team Leader ] 
+2. G JYOTHI PRAKASH
+3. MANOJ
+4.KARTHIK 
 
 
 ### Deployment Steps
@@ -31,8 +31,7 @@ Please follow the below steps to run this project.
 6. [Jaundice disease dataset](https://kaggle.com/dataset2)
    
 
-### Trailer
-https://github.com/sohammanjrekar/rcoe22-sem5-group2/assets/83022701/b63635ef-3195-4282-9e90-0b05c659fbcc
+
 
 <br></br>
 
